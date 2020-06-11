@@ -2,7 +2,7 @@
 // Created by francis on 6/11/20.
 //
 
-#include <WIRE.h>
+#include <Wire.h>
 #include "sht21.h"
 
 

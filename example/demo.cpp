@@ -1,4 +1,4 @@
-#include <WIRE.h>
+#include <Wire.h>
 #include "sht21.h"
 
 SHT21 SHT21;
