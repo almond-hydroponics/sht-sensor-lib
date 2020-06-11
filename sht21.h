@@ -8,7 +8,7 @@
 #include <Arduino.h>
 #include <Wire.h>
 
-#define SHT21_ADDRESS 0X40	// i2c Address for the sensor
+#define SHT21_ADDRESS 0X40    // i2c Address for the sensor
 
 #define TRIGGER_TEMP_MEASURE_NOHOLD 0XF3
 #define TRIGGER_HUMD_MEASURE_NOHOLD 0XF5

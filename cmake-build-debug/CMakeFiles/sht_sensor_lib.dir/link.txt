@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/sht_sensor_lib.dir/sht21.cpp.o  -o sht_sensor_lib 

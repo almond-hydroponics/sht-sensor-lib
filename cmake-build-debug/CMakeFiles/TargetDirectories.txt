@@ -1,3 +1,0 @@
-/home/francis/Documents/Projects/Froyo/sht-sensor-lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/francis/Documents/Projects/Froyo/sht-sensor-lib/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/francis/Documents/Projects/Froyo/sht-sensor-lib/cmake-build-debug/CMakeFiles/sht_sensor_lib.dir
