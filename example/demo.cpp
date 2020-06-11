@@ -1,4 +1,5 @@
 #include <Wire.h>
+#include <Arduino.h>
 #include "sht21.h"
 
 SHT21 SHT21;
