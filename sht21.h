@@ -17,7 +17,7 @@ class SHT21
 {
 public:
 	SHT21();
-	void begin();
+	static void begin();
 	float getTemperature();
 	float getHumidity();
 

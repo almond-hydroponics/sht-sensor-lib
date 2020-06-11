@@ -11,7 +11,7 @@ SHT21::SHT21()
 
 void SHT21::begin()
 {
-	WIRE.begin();
+	Wire.begin();
 }
 
 float SHT21::getTemperature()
@@ -24,7 +24,7 @@ float SHT21::getHumidity()
 	return (-6.0 + 125.0 / 65536.0 * (float)(readSHT21(TRIGGER_HUMD_MEASURE_NOHOLD)));
 }
 
-uint16_t SHT21::readSHT21(uint_8 command)
+uint16_t SHT21::readSHT21(uint8_t command)
 {
 	uint16_t result;
 
